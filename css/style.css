@@ -370,6 +370,7 @@ textarea{
     transition: var(--main-transition-duration);
     font-weight: bold;
     font-size: 19px;
+    margin-top: 20px
 }
 .footer-home-page .links-footer-home-page ul li a:hover{
     color: white;
